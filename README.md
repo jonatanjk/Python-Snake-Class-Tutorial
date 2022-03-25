@@ -1,0 +1,1 @@
+A simple Python script demonstrating how to use classes, by making a snake simulation as an example.
